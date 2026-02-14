@@ -63637,17 +63637,17 @@ A.Kb.prototype={
 C(a){return A.j2(new A.a8q())}}
 A.a8q.prototype={
 $2(a,b){var s=null
-return A.fQ(B.aA,A.c([new A.lf(new A.Hs(s),s),new A.lf(new A.Jh(s),s),new A.lf(new A.Ht(s),s),new A.lf(B.R8,s),new A.lf(B.R4,s)],t.p),16,16)},
+return A.fQ(B.aA,A.c([new A.lf(new A.Hs(s),s),new A.lf(new A.Jh(s),s),new A.lf(new A.Ht(s),s),new A.lf(B.R9,s),new A.lf(B.R5,s)],t.p),16,16)},
 $S:22}
 A.lf.prototype={
 C(a){var s=null,r=A.aC(a,s,t.w).w.a.a<600?1/0:530,q=A.bI(12)
 return A.aI(s,A.bE(this.c,s,s),s,s,new A.bs(B.h,s,s,q,s,s,B.G),100,s,s,r)}}
 A.Hs.prototype={
-C(a){return A.bT(A.c([A.fv("assets/adobe.png",null,null,36,null),B.ef,B.Rh],t.p),B.o,B.i,B.a0)}}
+C(a){return A.bT(A.c([A.fv("assets/adobe.png",null,null,36,null),B.ef,B.Ri],t.p),B.o,B.i,B.a0)}}
 A.Jh.prototype={
-C(a){return A.bT(A.c([A.fv("assets/images/figma.png",null,null,36,null),B.ef,B.R_],t.p),B.o,B.i,B.a0)}}
+C(a){return A.bT(A.c([A.fv("assets/images/figma.png",null,null,36,null),B.ef,B.R0],t.p),B.o,B.i,B.a0)}}
 A.Ht.prototype={
-C(a){return A.bT(A.c([A.fv("assets/images/affinityimg.png",null,null,36,null),B.ef,B.R7],t.p),B.o,B.i,B.a0)}}
+C(a){return A.bT(A.c([A.fv("assets/images/affinityimg.png",null,null,36,null),B.ef,B.R8],t.p),B.o,B.i,B.a0)}}
 A.Ho.prototype={
 C(a){var s=null
 return A.aj(A.c([A.Z("Accurate on All Calibrated Screens",s,s,B.Q.dE(B.K,B.L),s),B.cn,A.Z("Eizo professional monitors \u2192 inexpensive office laptops - SMS keeps your colours consistent.",s,s,B.a2.dE(B.kL,B.R),s)],t.p),B.u,B.i,B.m)}}
@@ -63991,7 +63991,7 @@ F8(a){var s=null
 return A.aj(A.c([A.Z("A Modern Colour\nSystem for a Multi-\nMedia World",s,s,A.bK(s,s,B.eM,s,s,s,s,s,s,s,s,a?36:48,s,s,B.dE,s,1.1,!0,s,s,s,s,s,s,s,s),s)],t.p),B.u,B.i,B.m)}}
 A.KQ.prototype={
 C(a){var s=null,r=A.cL(a),q=A.aC(a,s,t.w).w
-return A.aI(s,A.bE(new A.bW(B.aa,A.aj(A.c([new A.h_(B.jY,s,s,A.Z("SMS ensures your colours look right on:",s,s,A.bK(s,s,B.H,s,s,s,s,s,s,s,s,16,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),s),s),B.aq,A.j2(new A.a96(q.a.a<600)),B.aE,B.R9],t.p),B.o,B.i,B.m),s),s,s),B.af,s,s,s,s,new A.ad(r,40,r,40),1/0)}}
+return A.aI(s,A.bE(new A.bW(B.aa,A.aj(A.c([new A.h_(B.jY,s,s,A.Z("SMS ensures your colours look right on:",s,s,A.bK(s,s,B.H,s,s,s,s,s,s,s,s,16,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),s),s),B.aq,A.j2(new A.a96(q.a.a<600)),B.aE,B.Ra],t.p),B.o,B.i,B.m),s),s,s),B.af,s,s,s,s,new A.ad(r,40,r,40),1/0)}}
 A.a96.prototype={
 $2(a,b){var s=this.a?2:4,r=t.hk
 r=A.W(new A.Y(B.EU,new A.a95((b.b-16*(s-1))/s),r),r.h("ak.E"))
@@ -64010,7 +64010,7 @@ B.b.K(q,new A.Y(p,new A.a9l(),A.a_(p).h("Y<1,f>")))
 return A.aI(s,A.aj(q,B.u,B.i,B.m),s,s,new A.bs(B.AU,s,s,r,s,s,B.G),s,s,B.cL,1/0)}}
 A.a9l.prototype={
 $1(a){var s=null
-return new A.c8(B.dA,A.bT(A.c([B.Rf,A.cx(A.Z(a,s,s,B.Pw,s),1)],t.p),B.u,B.i,B.m),s)},
+return new A.c8(B.dA,A.bT(A.c([B.Rg,A.cx(A.Z(a,s,s,B.Pw,s),1)],t.p),B.u,B.i,B.m),s)},
 $S:42}
 A.NJ.prototype={
 C(a){var s=null,r=A.cL(a),q=t.p
@@ -64131,7 +64131,7 @@ else q.push(A.bT(A.c([B.Co,B.wD,A.cx(A.fv(o,p,B.bm,p,p),11)],r),B.o,B.i,B.m))
 return A.aI(p,A.bE(new A.bW(B.aa,A.aj(q,B.o,B.i,B.m),p),p,p),B.af,p,p,p,p,new A.ad(n,s,n,s),1/0)}}
 A.JL.prototype={
 C(a){var s=null,r=A.aC(a,s,t.w).w.a.a<600,q=A.Z("The Spot\nMatching\nSystem v7",s,s,A.bK(s,s,B.eM,s,s,s,s,s,s,s,s,r?42:64,s,s,B.dE,s,1,!0,s,s,s,s,s,s,s,s),s),p=A.Z("The world's only 3C colour palette - CrossMedia Colour Consistency.",s,s,A.bK(s,s,B.H,s,s,s,s,s,s,s,s,r?16:18,s,s,B.R,s,1.4,!0,s,s,s,s,s,s,s,s),s),o=t.p
-return A.aj(A.c([q,B.aw,p,B.aK,A.Z("2,607 CMYK-based colours designed for modern branding, printing, digital media, and real-world screens.",s,s,A.bK(s,s,B.H,s,s,s,s,s,s,s,s,r?16:18,s,s,B.E,s,1.4,!0,s,s,s,s,s,s,s,s),s),B.cm,A.bT(A.c([A.Sk(B.Ra,new A.a7M(),A.Sl(s,s,B.eP,s,s,s,0,s,s,B.h,s,s,B.hI,s,new A.cC(A.bI(4),B.r),s,s,s,s,s)),B.js,new A.Em(new A.a7N(),s,s,s,A.as2(s,s,s,s,s,s,s,s,s,B.cI,s,s,B.hI,s,new A.cC(A.bI(4),B.r),B.y9,s,s,s,s),s,s,!1,s,s,B.Rc,s)],o),B.o,B.i,B.m)],o),B.u,B.i,B.m)}}
+return A.aj(A.c([q,B.aw,p,B.aK,A.Z("2,607 CMYK-based colours designed for modern branding, printing, digital media, and real-world screens.",s,s,A.bK(s,s,B.H,s,s,s,s,s,s,s,s,r?16:18,s,s,B.E,s,1.4,!0,s,s,s,s,s,s,s,s),s),B.cm,A.bT(A.c([A.Sk(B.Rb,new A.a7M(),A.Sl(s,s,B.eP,s,s,s,0,s,s,B.h,s,s,B.hI,s,new A.cC(A.bI(4),B.r),s,s,s,s,s)),B.js,new A.Em(new A.a7N(),s,s,s,A.as2(s,s,s,s,s,s,s,s,s,B.cI,s,s,B.hI,s,new A.cC(A.bI(4),B.r),B.y9,s,s,s,s),s,s,!1,s,s,B.Rd,s)],o),B.o,B.i,B.m)],o),B.u,B.i,B.m)}}
 A.a7M.prototype={
 $0(){return A.ahy($.bt(),"/shop-View",t.z)},
 $S:0}
@@ -64143,7 +64143,7 @@ C(a){var s=null,r=A.cL(a),q=t.p
 return A.aI(s,A.bE(new A.bW(B.aa,A.aC(a,s,t.w).w.a.a<600?A.aj(A.c([B.xT,B.aE,B.xS],q),B.o,B.i,B.m):A.bT(A.c([B.Cq,B.Md,B.Cm],q),B.u,B.i,B.m),s),s,s),B.af,s,s,s,s,new A.ad(r,80,r,80),1/0)}}
 A.NN.prototype={
 C(a){var s=null
-return A.aj(A.c([B.R5,B.aq,B.QZ,B.aw,B.Rg,B.aK,A.hY(!1,s,!0,A.bT(B.Fy,B.o,B.i,B.a0),s,!0,s,s,s,s,s,s,new A.abc(),s,s,s)],t.p),B.u,B.i,B.m)}}
+return A.aj(A.c([B.R6,B.aq,B.R_,B.aw,B.Rh,B.aK,A.hY(!1,s,!0,A.bT(B.Fy,B.o,B.i,B.a0),s,!0,s,s,s,s,s,s,new A.abc(),s,s,s)],t.p),B.u,B.i,B.m)}}
 A.abc.prototype={
 $0(){},
 $S:0}
@@ -64203,13 +64203,13 @@ C(a){var s=null,r=t.p
 return A.bT(A.c([A.aI(s,B.zF,s,s,B.yn,32,s,s,32),B.ef,A.aj(A.c([A.Z("SPOT",s,s,A.bK(s,s,B.K,s,s,s,s,s,s,s,s,16,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),s),A.Z("matching system",s,s,A.bK(s,s,B.kJ,s,s,s,s,s,s,s,s,10,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],r),B.u,B.i,B.a0)],r),B.o,B.i,B.a0)}}
 A.zq.prototype={
 C(a){var s=null
-return A.Sk(B.Rj,new A.aav(),A.Sl(s,s,B.K,s,s,s,0,s,s,B.h,s,s,B.Cc,s,new A.cC(A.bI(10),B.r),s,s,s,s,s))}}
+return A.Sk(B.QZ,new A.aav(),A.Sl(s,s,B.K,s,s,s,0,s,s,B.h,s,s,B.Cc,s,new A.cC(A.bI(10),B.r),s,s,s,s,s))}}
 A.aav.prototype={
 $0(){A.ahy($.bt(),"/shop-View",t.z)},
 $S:0}
 A.EI.prototype={
-C(a){var s=null,r=A.cL(a),q=A.aC(a,s,t.w).w.a.a<600,p=A.Z("SMS READY Expert",s,s,A.bK(s,s,B.H,s,s,s,s,s,s,s,s,q?32:42,s,s,B.v,s,s,!0,s,s,s,s,s,s,s,s),B.Z),o=q?24:40,n=A.bI(24),m=A.c([new A.d3(0,B.aR,A.aB(15,B.k.u()>>>16&255,B.k.u()>>>8&255,B.k.u()&255),B.r5,20)],t.V),l=A.Z("Become SMS READY Expert",s,s,A.bK(s,s,B.aU,s,s,s,s,s,s,s,s,q?20:24,s,s,B.v,s,s,!0,s,s,s,s,s,s,s,s),s),k=A.Z("Professional training that ensures SMS colours are used and reproduced correctly - from design to print, web, and video.",s,s,A.bK(s,s,B.bO,s,s,s,s,s,s,s,s,q?14:16,s,s,B.E,s,1.5,!0,s,s,s,s,s,s,s,s),s),j=t.p,i=A.bT(A.c([B.Re,B.js,A.cx(A.aI(s,s,B.cJ,s,s,0.5,s,s,s),1)],j),B.o,B.i,B.m),h=A.fQ(B.aA,B.FA,16,32),g=A.bI(16),f=A.o_(B.B8,0.5)
-return A.aI(s,A.bE(new A.bW(B.yi,A.aj(A.c([p,B.aE,A.aI(s,A.aj(A.c([l,B.aK,k,B.aq,i,B.aw,h,B.cm,A.aI(s,A.aj(A.c([B.Ri,B.aK,A.mZ(s,s,s,B.bA,s,s,!0,s,B.Nd,B.ar,s,s,B.aQ,B.aF),B.aw,A.cZ(A.Sk(B.Rb,new A.a05(),A.Sl(s,s,B.aU,s,s,s,0,s,s,B.h,s,s,B.C8,s,new A.cC(A.bI(8),B.r),s,s,s,s,s)),s,300)],j),B.o,B.i,B.m),s,s,new A.bs(B.B1,s,f,g,s,s,B.G),s,s,B.f_,1/0)],j),B.u,B.i,B.m),s,s,new A.bs(B.h,s,s,n,m,s,B.G),s,s,new A.ad(o,o,o,o),1/0)],j),B.o,B.i,B.m),s),s,s),B.bM,s,s,s,s,new A.ad(r,0,r,0),1/0)}}
+C(a){var s=null,r=A.cL(a),q=A.aC(a,s,t.w).w.a.a<600,p=A.Z("SMS READY Expert",s,s,A.bK(s,s,B.H,s,s,s,s,s,s,s,s,q?32:42,s,s,B.v,s,s,!0,s,s,s,s,s,s,s,s),B.Z),o=q?24:40,n=A.bI(24),m=A.c([new A.d3(0,B.aR,A.aB(15,B.k.u()>>>16&255,B.k.u()>>>8&255,B.k.u()&255),B.r5,20)],t.V),l=A.Z("Become SMS READY Expert",s,s,A.bK(s,s,B.aU,s,s,s,s,s,s,s,s,q?20:24,s,s,B.v,s,s,!0,s,s,s,s,s,s,s,s),s),k=A.Z("Professional training that ensures SMS colours are used and reproduced correctly - from design to print, web, and video.",s,s,A.bK(s,s,B.bO,s,s,s,s,s,s,s,s,q?14:16,s,s,B.E,s,1.5,!0,s,s,s,s,s,s,s,s),s),j=t.p,i=A.bT(A.c([B.Rf,B.js,A.cx(A.aI(s,s,B.cJ,s,s,0.5,s,s,s),1)],j),B.o,B.i,B.m),h=A.fQ(B.aA,B.FA,16,32),g=A.bI(16),f=A.o_(B.B8,0.5)
+return A.aI(s,A.bE(new A.bW(B.yi,A.aj(A.c([p,B.aE,A.aI(s,A.aj(A.c([l,B.aK,k,B.aq,i,B.aw,h,B.cm,A.aI(s,A.aj(A.c([B.Rj,B.aK,A.mZ(s,s,s,B.bA,s,s,!0,s,B.Nd,B.ar,s,s,B.aQ,B.aF),B.aw,A.cZ(A.Sk(B.Rc,new A.a05(),A.Sl(s,s,B.aU,s,s,s,0,s,s,B.h,s,s,B.C8,s,new A.cC(A.bI(8),B.r),s,s,s,s,s)),s,300)],j),B.o,B.i,B.m),s,s,new A.bs(B.B1,s,f,g,s,s,B.G),s,s,B.f_,1/0)],j),B.u,B.i,B.m),s,s,new A.bs(B.h,s,s,n,m,s,B.G),s,s,new A.ad(o,o,o,o),1/0)],j),B.o,B.i,B.m),s),s,s),B.bM,s,s,s,s,new A.ad(r,0,r,0),1/0)}}
 A.a05.prototype={
 $0(){},
 $S:0}
@@ -66844,12 +66844,12 @@ B.zD=new A.rN(null,null,null,null,null,null,null)
 B.zE=new A.rO(null,null,null,null,null,null)
 B.L=new A.ft(6)
 B.OK=new A.j(!0,B.h,null,null,null,null,18,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R3=new A.cj("S",null,B.OK,null,null,null,null)
-B.zF=new A.jT(B.ao,null,null,B.R3,null)
+B.R4=new A.cj("S",null,B.OK,null,null,null,null)
+B.zF=new A.jT(B.ao,null,null,B.R4,null)
 B.hw=new A.k(1,0.7686274509803922,0.41568627450980394,0.32941176470588235,B.d)
 B.NH=new A.j(!0,B.hw,null,null,null,null,null,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R6=new A.cj("1",null,B.NH,null,null,null,null)
-B.zG=new A.jT(B.ao,null,null,B.R6,null)
+B.R7=new A.cj("1",null,B.NH,null,null,null,null)
+B.zG=new A.jT(B.ao,null,null,B.R7,null)
 B.zH=new A.rQ(null,null,null,null,null,null,null,null,null)
 B.cF=new A.o7(0,"none")
 B.cG=new A.o7(1,"isTrue")
@@ -67319,11 +67319,11 @@ B.EA=s([B.jM,B.xQ],A.ae("v<z8>"))
 B.lM=s([0,4,12,1,5,13,3,7,15],t.t)
 B.cs=new A.wV(1)
 B.PJ=new A.j(!0,B.h,null,null,null,null,18,B.v,null,null,null,null,null,null,null,null,null,B.cs,null,null,null,null,null,null,null,null)
-B.Rd=new A.cj("Follow",null,B.PJ,null,null,null,null)
+B.Re=new A.cj("Follow",null,B.PJ,null,null,null,null)
 B.fQ=new A.b4(6,null,null,null)
 B.CQ=new A.c2(58435,"MaterialIcons",!1)
 B.Dg=new A.ek(B.CQ,20,B.h,null,null)
-B.EF=s([B.Rd,B.fQ,B.Dg],t.p)
+B.EF=s([B.Re,B.fQ,B.Dg],t.p)
 B.cr=new A.jr(0,"left")
 B.d3=new A.jr(1,"right")
 B.Z=new A.jr(2,"center")
@@ -67497,10 +67497,10 @@ B.ER=s(["Full Colour Management support"],t.s)
 B.U3=new A.fk("SMS Subscription for Brand Owners (P40)",B.ER,"Buy SMS Subscription (P40)",null)
 B.Fi=s([B.U6,B.U5,B.U7,B.U3],t.p)
 B.Pz=new A.j(!0,B.eP,null,null,null,null,13,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R0=new A.cj("Learn more",null,B.Pz,null,null,null,null)
+B.R1=new A.cj("Learn more",null,B.Pz,null,null,null,null)
 B.wE=new A.b4(4,null,null,null)
 B.D8=new A.ek(B.ii,14,B.eP,null,null)
-B.Fp=s([B.R0,B.wE,B.D8],t.p)
+B.Fp=s([B.R1,B.wE,B.D8],t.p)
 B.zA=new A.lH(0,"auto")
 B.zB=new A.lH(1,"full")
 B.zC=new A.lH(2,"chromium")
@@ -67523,9 +67523,9 @@ B.Fw=s([B.bx,B.Mn,B.bT],t.p)
 B.Lh=new A.G8(null)
 B.Fx=s([B.bx,B.Lh,B.bT],t.p)
 B.Ng=new A.j(!0,B.cI,null,null,null,null,14,B.R,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R2=new A.cj("Learn more about SMS",null,B.Ng,null,null,null,null)
+B.R3=new A.cj("Learn more about SMS",null,B.Ng,null,null,null,null)
 B.Da=new A.ek(B.ii,16,B.cI,null,null)
-B.Fy=s([B.R2,B.wE,B.Da],t.p)
+B.Fy=s([B.R3,B.wE,B.Da],t.p)
 B.SH=new A.q8("SMS READY agencies",null)
 B.SI=new A.q8("SMS READY print shops",null)
 B.SG=new A.q8("SMS dealers",null)
@@ -68561,8 +68561,8 @@ B.Jk=new A.Ek(1,"landscape")
 B.Jl=new A.vf(null)
 B.Cf=new A.ad(4,0,0,10)
 B.Pe=new A.j(!0,B.aj,null,null,null,null,12,B.R,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R1=new A.cj("Per Participant",null,B.Pe,null,null,null,null)
-B.Jm=new A.c8(B.Cf,B.R1,null)
+B.R2=new A.cj("Per Participant",null,B.Pe,null,null,null,null)
+B.Jm=new A.c8(B.Cf,B.R2,null)
 B.aZ=new A.Et(0,"fill")
 B.b7=new A.Et(1,"stroke")
 B.Jn=new A.kB(1/0)
@@ -69154,32 +69154,32 @@ B.PW=new A.j(!0,B.I,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Qb=new A.j(!0,B.k,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Nw=new A.j(!0,B.k,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.QY=new A.dP(B.P0,B.Oa,B.P1,B.Pv,B.NQ,B.NY,B.Ot,B.Pm,B.OD,B.Q_,B.Nn,B.NE,B.PW,B.Qb,B.Nw)
-B.x5=new A.j(!0,B.H,null,null,null,null,16,null,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.QZ=new A.cj("The Spot Matching System (SMS) is a modern colour system built for the world we live in today \u2014 where brands must look consistent on print, web, mobile, social media, packaging, and even low-gamut customer laptops.",null,B.x5,null,null,null,null)
-B.x1=new A.j(!0,null,null,null,null,null,24,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R_=new A.cj("Figma",null,B.x1,null,null,null,null)
-B.x4=new A.j(!0,null,null,null,null,null,18,B.E,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R4=new A.cj("Mobile",null,B.x4,null,null,null,null)
-B.NI=new A.j(!0,B.H,null,null,null,null,32,B.v,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R5=new A.cj("What is SMS?",null,B.NI,null,null,null,null)
-B.R7=new A.cj("Affinity",null,B.x1,null,null,null,null)
-B.R8=new A.cj("Web",null,B.x4,null,null,null,null)
-B.Qh=new A.j(!0,B.eP,null,null,null,null,18,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.R9=new A.cj("SMS is the only colour system built for true 3C - CrossMedia Colour Consistency.",null,B.Qh,B.Z,null,null,null)
-B.Ra=new A.cj("Shop SMS",null,B.fS,null,null,null,null)
-B.QC=new A.j(!0,null,null,null,null,null,16,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rb=new A.cj("Learn more",null,B.QC,null,null,null,null)
-B.Rc=new A.cj("Follow us on Linkedin",null,B.fS,null,null,null,null)
-B.NW=new A.j(!0,B.aU,null,null,null,null,14,B.v,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Re=new A.cj("Required for",null,B.NW,null,null,null,null)
-B.O_=new A.j(!0,B.bs,null,null,null,null,18,B.dE,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rf=new A.cj("\u2022 ",null,B.O_,null,null,null,null)
-B.Rg=new A.cj("Traditional spot ink systems rely on special inks. SMS doesn't. Every SMS colour is defined by a fixed CIELAB value, so your colours stay consistent across print, digital, and real-world screens.",null,B.x5,null,null,null,null)
-B.Oe=new A.j(!0,B.iJ,null,null,null,null,24,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rh=new A.cj("Adobe",null,B.Oe,null,null,null,null)
-B.Ri=new A.cj("Remote training & diploma",null,B.x2,null,null,null,null)
 B.Po=new A.j(!0,null,null,null,null,null,16,B.R,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rj=new A.cj("Shop SMS New",null,B.Po,null,null,null,null)
+B.QZ=new A.cj("Shop SMS ",null,B.Po,null,null,null,null)
+B.x5=new A.j(!0,B.H,null,null,null,null,16,null,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.R_=new A.cj("The Spot Matching System (SMS) is a modern colour system built for the world we live in today \u2014 where brands must look consistent on print, web, mobile, social media, packaging, and even low-gamut customer laptops.",null,B.x5,null,null,null,null)
+B.x1=new A.j(!0,null,null,null,null,null,24,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.R0=new A.cj("Figma",null,B.x1,null,null,null,null)
+B.x4=new A.j(!0,null,null,null,null,null,18,B.E,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.R5=new A.cj("Mobile",null,B.x4,null,null,null,null)
+B.NI=new A.j(!0,B.H,null,null,null,null,32,B.v,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.R6=new A.cj("What is SMS?",null,B.NI,null,null,null,null)
+B.R8=new A.cj("Affinity",null,B.x1,null,null,null,null)
+B.R9=new A.cj("Web",null,B.x4,null,null,null,null)
+B.Qh=new A.j(!0,B.eP,null,null,null,null,18,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Ra=new A.cj("SMS is the only colour system built for true 3C - CrossMedia Colour Consistency.",null,B.Qh,B.Z,null,null,null)
+B.Rb=new A.cj("Shop SMS",null,B.fS,null,null,null,null)
+B.QC=new A.j(!0,null,null,null,null,null,16,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rc=new A.cj("Learn more",null,B.QC,null,null,null,null)
+B.Rd=new A.cj("Follow us on Linkedin",null,B.fS,null,null,null,null)
+B.NW=new A.j(!0,B.aU,null,null,null,null,14,B.v,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rf=new A.cj("Required for",null,B.NW,null,null,null,null)
+B.O_=new A.j(!0,B.bs,null,null,null,null,18,B.dE,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rg=new A.cj("\u2022 ",null,B.O_,null,null,null,null)
+B.Rh=new A.cj("Traditional spot ink systems rely on special inks. SMS doesn't. Every SMS colour is defined by a fixed CIELAB value, so your colours stay consistent across print, digital, and real-world screens.",null,B.x5,null,null,null,null)
+B.Oe=new A.j(!0,B.iJ,null,null,null,null,24,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Ri=new A.cj("Adobe",null,B.Oe,null,null,null,null)
+B.Rj=new A.cj("Remote training & diploma",null,B.x2,null,null,null,null)
 B.x6=new A.GQ(0,"system")
 B.Rk=new A.GQ(2,"dark")
 B.J3=new A.n(0.056,0.024)
