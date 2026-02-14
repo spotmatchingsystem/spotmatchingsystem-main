@@ -40,7 +40,8 @@ class AboutContent extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'About SpotNordic',
+                'About '
+                'SpotNordic',
                 style: (isMobile ? AppTextStyles.h3 : AppTextStyles.h1)
                     .copyWith(
                       fontWeight: FontWeight.w800,
